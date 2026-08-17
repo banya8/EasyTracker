@@ -1,0 +1,1 @@
+# This a Smart Expense tracker project
