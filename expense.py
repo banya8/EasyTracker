@@ -1,3 +1,4 @@
+
 from datetime import datetime
 
 class ExpenseManager:
@@ -7,7 +8,7 @@ class ExpenseManager:
         self.amounts=amount
         self.category=category
         self.des=description
-        self.details=datetime.today()
+        self.details=datetime.now()
 
     def cal_expanse(self, amount):
         
